@@ -1,10 +1,10 @@
 [
   {
-    "package": "mixmeta",
+    "package": "dlnm",
     "oncran": true
   },
   {
-    "package": "dlnm",
+    "package": "mixmeta",
     "oncran": true
   }
 ]

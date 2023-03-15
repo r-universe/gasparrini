@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mixmeta"]
-	path = mixmeta
-	url = https://github.com/gasparrini/mixmeta
-	shallow = true
-	registered = true
 [submodule "dlnm"]
 	path = dlnm
 	url = https://github.com/gasparrini/dlnm
+	shallow = true
+	registered = true
+[submodule "mixmeta"]
+	path = mixmeta
+	url = https://github.com/gasparrini/mixmeta
 	shallow = true
 	registered = true
