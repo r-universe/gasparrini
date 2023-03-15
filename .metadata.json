@@ -6,5 +6,9 @@
   {
     "package": "mixmeta",
     "oncran": true
+  },
+  {
+    "package": "mvmeta",
+    "oncran": true
   }
 ]

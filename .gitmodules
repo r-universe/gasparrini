@@ -13,3 +13,8 @@
 	url = https://github.com/gasparrini/mixmeta
 	shallow = true
 	registered = true
+[submodule "mvmeta"]
+	path = mvmeta
+	url = https://github.com/gasparrini/mvmeta
+	shallow = true
+	registered = true
